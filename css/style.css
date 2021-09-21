@@ -125,7 +125,23 @@ h2{
   margin-bottom: 40px;
   font-weight: bold;
 }
+.biohead2{
+  color: white;
+  font-family: '코펍중간';
+  font-size: 30px;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
 .biotext{
+  color: white;
+  font-family: '코펍중간';
+  font-size: 17px;
+  margin-left: 60px;
+  margin-bottom: 10px;
+  margin-right: 60px;
+  line-height: 30px;
+}
+.biotext2{
   color: white;
   font-family: '코펍중간';
   font-size: 17px;
@@ -198,7 +214,24 @@ h2{
     margin-bottom: 50px;
     text-align: center;
   }
+  .biohead2{
+    color: white;
+    font-family: '코펍중간';
+    font-size: 30px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
   .biotext{
+    color: white;
+    font-family: '코펍중간';
+    font-size: 17px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    margin-right: 60px;
+    line-height: 30px;
+  }
+  .biotext2{
     color: white;
     font-family: '코펍중간';
     font-size: 17px;
@@ -268,6 +301,14 @@ h2{
     width: auto;
   }
   .biohead{
+    color: white;
+    font-family: '코펍중간';
+    font-size: 30px;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  .biohead2{
     color: white;
     font-family: '코펍중간';
     font-size: 30px;
